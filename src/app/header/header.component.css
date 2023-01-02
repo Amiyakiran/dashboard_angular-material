@@ -1,0 +1,14 @@
+ul li{
+    list-style: none;
+}
+
+mat-toolbar{
+   background-color:rgba(8, 60, 105, 0.973);
+}
+.te{
+    color:white ;
+}
+
+mat-icon{
+    color: white;
+}

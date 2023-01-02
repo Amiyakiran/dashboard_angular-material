@@ -1,0 +1,28 @@
+ mat-card{
+     margin-top: 20px; 
+     margin-bottom: 30px;
+}
+ 
+ .mat-mdc-card-content {
+     display: block;
+     padding: 0px;
+     padding-top: 0px;
+     padding-right: 0px;
+     padding-bottom: 0px;
+     padding-left: 0px;
+ }
+ .mat-mdc-card-content:last-child {
+     padding-bottom: 0px;
+     
+ }
+ .mat-mdc-card-content:first-child {
+     padding-top: 0px;
+ }
+
+#chart{
+    margin-top: 40px;
+}
+
+#pie{
+    margin-top: 40px;
+}
